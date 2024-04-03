@@ -1,0 +1,28 @@
+{
+  "producer_account_name": "printbloksbp", 
+  "producer_public_key": "Key:EOS7yrAeVqmzBLPxHeKvMaYYxMBavp94NpXtrYCscCqVpTcsHtRig", 
+  "org": {
+    "candidate_name": "printbloks", 
+    "website": "https://avinashanad.science/", 
+    "code_of_conduct": "", 
+    "ownership_disclosure": "https://avinashanad.science/", 
+    "email": "avinash.20121925@gmail.com", 
+    "phone": "+919964203113", 
+    "location": {
+      "name": "Bangalore", 
+      "country": "IN", 
+      "latitude": 12.812,
+      "longitude": 77.507
+    }, 
+  "nodes": [
+    {
+      "location": {
+        "name": "Bangalore", 
+      	"country": "IN", 
+      	"latitude": 12.812,
+      	"longitude": 77.507
+      }, 
+      "node_type": "producer"
+    }
+  ]
+}
